@@ -62,10 +62,3 @@ See `queries.sql` for all queries.
 
 - **Smokers** consistently show higher medical charges across all age groups
 - Individuals **over 60** have significantly higher average charges, especially if they smoke
-
----
-
-## Live Portfolio Page
-
-View this project on GitHub Pages:  
-👉 https://ashleymelendezmota.github.io/medical-cost-analysis/
