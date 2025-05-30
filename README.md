@@ -42,7 +42,8 @@ See `queries.sql` for all queries.
   - Smoker vs. non-smoker trends
   - Age impact on costs
 
- ![Tableau Screenshot](![image](https://github.com/user-attachments/assets/b0437ba4-f40f-49ff-8076-a5bacdecf05d))
+ [Tableau Screenshot](![Capstone Project](https://github.com/user-attachments/assets/91649d53-3ea5-495c-ad4f-c28973a53158)
+
 
 ---
 
