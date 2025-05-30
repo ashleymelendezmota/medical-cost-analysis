@@ -49,9 +49,8 @@ See `queries.sql` for all queries.
 
 - `README.md`: Project summary and documentation
 - `queries.sql`: All SQL code used
-- `analysis.xlsx`: Excel with charts and tables
+- `Spreadsheet`: Google Sheets with charts and tables
 - `Tableau Screenshot.png`: Dashboard screenshot
-- `Capstone.twbx`: Interactive Dashboard
 
 ---
 
