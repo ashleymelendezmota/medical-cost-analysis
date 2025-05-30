@@ -44,9 +44,6 @@ See `queries.sql` for all queries.
 
  [Tableau Screenshot](![Capstone Project](https://github.com/user-attachments/assets/91649d53-3ea5-495c-ad4f-c28973a53158)
 
-### Interactive Dashboard
-
-See `Capstone.twbx` to view the interactive dashboard
 
 ## Files Included
 
@@ -56,6 +53,9 @@ See `Capstone.twbx` to view the interactive dashboard
 - `Tableau Screenshot.png`: Dashboard screenshot
 - `Capstone.twbx`: Interactive Dashboard
 
+ ## 📈 Tableau Dashboard
+
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/ashley.melendez.mota/viz/Capstone_17485706941720/CapstoneProject)
 ---
 
 ## Key Takeaways
