@@ -43,7 +43,7 @@ See `queries.sql` for all queries.
   - Age impact on costs
 
  [Tableau Screenshot](![Capstone Project](https://github.com/user-attachments/assets/91649d53-3ea5-495c-ad4f-c28973a53158)
-
+[View on Tableau Public](https://public.tableau.com/app/profile/ashley.melendez.mota/viz/Capstone_17485706941720/CapstoneProject)
 
 ## Files Included
 
@@ -53,9 +53,6 @@ See `queries.sql` for all queries.
 - `Tableau Screenshot.png`: Dashboard screenshot
 - `Capstone.twbx`: Interactive Dashboard
 
- ## 📈 Tableau Dashboard
-
-🔗 [View on Tableau Public](https://public.tableau.com/app/profile/ashley.melendez.mota/viz/Capstone_17485706941720/CapstoneProject)
 ---
 
 ## Key Takeaways
