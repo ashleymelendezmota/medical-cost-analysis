@@ -16,8 +16,7 @@ This beginner-friendly data analytics project explores healthcare costs using th
 
 1. How does smoking status affect medical charges across different age groups?
 2. Do people over 60 have higher average charges?
-3. Are medical costs consistent across U.S. regions?
-4. Which factors contribute most to high medical charges?
+3. What are the top 5 medical charges across all demographics?
 
 ---
 
@@ -25,7 +24,6 @@ This beginner-friendly data analytics project explores healthcare costs using th
 
 - Average charges by **region**, **age group**, and **smoking status**
 - Comparison of **smoker vs non-smoker** costs
-- Breakdown of **charges by BMI category**
 - Top 5 highest medical charges with full patient detail
 
 See `queries.sql` for all queries.
@@ -35,8 +33,8 @@ See `queries.sql` for all queries.
 ## 📊 Visualizations
 
 ### Excel:
-- **Bar chart**: Average charges by age group and smoker status
-- **Pivot tables** summarizing charges by region and BMI
+- **Bar chart**: Average charges by region and smoker status
+- **Pivot tables** summarizing charges by region
 
 ### Tableau:
 - Interactive dashboard showing:
@@ -61,8 +59,6 @@ See `queries.sql` for all queries.
 
 - **Smokers** consistently show higher medical charges across all age groups
 - Individuals **over 60** have significantly higher average charges, especially if they smoke
-- The **Southeast region** shows the highest costs, largely driven by high-risk behaviors
-- **BMI** and **number of children** have minor but notable effects on charges
 
 ---
 
