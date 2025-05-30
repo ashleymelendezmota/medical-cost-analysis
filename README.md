@@ -44,15 +44,17 @@ See `queries.sql` for all queries.
 
  [Tableau Screenshot](![Capstone Project](https://github.com/user-attachments/assets/91649d53-3ea5-495c-ad4f-c28973a53158)
 
+### Interactive Dashboard
 
----
+See `Capstone.twbx` to view the interactive dashboard
 
 ## Files Included
 
 - `README.md`: Project summary and documentation
 - `queries.sql`: All SQL code used
 - `analysis.xlsx`: Excel with charts and tables
-- `tableau-dashboard.png`: Dashboard screenshot
+- `Tableau Screenshot.png`: Dashboard screenshot
+- `Capstone.twbx`: Interactive Dashboard
 
 ---
 
